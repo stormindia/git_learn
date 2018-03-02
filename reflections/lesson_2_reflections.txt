@@ -1,0 +1,2 @@
+What happens when you initialize a repository? Why do you need to do it?
+Creates a new repo. To make commit possible
