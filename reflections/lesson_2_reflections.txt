@@ -1,2 +1,5 @@
 What happens when you initialize a repository? Why do you need to do it?
 Creates a new repo. To make commit possible
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+when you want to try out different features. It keeps the old feature intact while letting us work on new things
