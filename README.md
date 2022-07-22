@@ -3,8 +3,6 @@ MY GIT ALIAS
 
 ```
 ## ALIAS ##
-alias cdap="cd /Users/harshitbolt/admin-panel"
-alias cds="cd /Users/harshitbolt/repos/taxify/server"
 alias gcd="git checkout develop && git pull origin develop"
 alias gph='git push'
 alias gcm='git commit -m'
